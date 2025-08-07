@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Swayam Pradhan
 
-<!--
-**saiswayam2027/saiswayam2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE student at VIT Chennai  
+💡 Passionate about AI, Machine Learning, Data Science
+💻 Skilled in Python, Java, C  
+📸 I enjoy singing,photography
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+- 📊 GitHub Profile Analyzer: Visualizes GitHub stats using Python
+- Social Network Simulator: 
+- ♻️ AI Waste Sorter: CNN-based classifier + best-use recommendation
+
+---
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/sai-swayam-pradhan-a54114289/))  
+- 📧 Email: saiswayam1919@gamil.com  
+
+---
+
+⭐ _“Exploring, building, and creating every day!”_
+
