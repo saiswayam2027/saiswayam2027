@@ -15,7 +15,7 @@
 ---
 
 ##  Let's Connect!
--  [LinkedIn]((https://www.linkedin.com/in/sai-swayam-pradhan-a54114289/))  
+-  [LinkedIn](https://www.linkedin.com/in/sai-swayam-pradhan-a54114289/)  
 -  Email: saiswayam1919@gamil.com  
 
 ---
