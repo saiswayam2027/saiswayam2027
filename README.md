@@ -1,24 +1,32 @@
-# Hi, I'm Sai Swayam Pradhan
+# Sai Swayam Pradhan
 
- B.Tech CSE student at VIT Chennai  
- Passionate about AI, Machine Learning, Data Science
- Skilled in Python, Java, C  
- I enjoy singing,photography
+B.Tech CSE student at VIT Chennai. Interested in AI, Machine Learning and Data Science.
+Skilled in Python, Java and C.
 
----
+## About Me
 
-##  My Projects
--  GitHub Profile Analyzer: Visualizes GitHub stats using Python
-- Social Network Simulator: 
--  AI Waste Sorter: CNN-based classifier + best-use recommendation
+I'm a Computer Science undergrad at VIT Chennai, building projects across machine learning, NLP, and backend systems. I enjoy working through problems end-to-end — from data cleaning and model training to wrapping things in an API and shipping them. Currently sharpening my DSA and core CS fundamentals while exploring backend development. Outside of code, I sing and do photography.
 
 ---
 
-##  Let's Connect!
--  [LinkedIn](https://www.linkedin.com/in/sai-swayam-pradhan-a54114289/)  
--  Email: saiswayam1919@gamil.com  
+## Projects
+
+### [GitHub Profile Analyzer](https://github.com/saiswayam2027/Github-Profile-Analyzer) *(Python, Requests, Matplotlib, Jupyter Notebook)*
+Fetches and analyzes GitHub user activity via the GitHub API, surfacing repository stats, most-used languages, and activity trends through clean visualizations.
+
+### [Semantic Search System](https://github.com/saiswayam2027/semantic-search-system) *(Python, FastAPI, SentenceTransformers, Scikit-learn, Docker)*
+A semantic search API that embeds queries with SentenceTransformers, clusters them into topics via TF-IDF + NMF, and uses a cosine-similarity cache to return results for semantically similar queries — served through FastAPI and containerized with Docker.
+
+### [Virtual Mouse & Keyboard](https://github.com/saiswayam2027/Vertual-mouse-and-keyboard) *(Python, OpenCV, MediaPipe Hands)*
+Gesture-controlled system with three modes — mouse control, an on-screen virtual keyboard, and a drawing canvas — driven entirely by webcam hand tracking, with gesture shortcuts for mode switching, screenshots, and scrolling.
+
+### [Emotion Detection ML](https://github.com/saiswayam2027/Emotion-detection-ML) *(Python, PyTorch, Transformers, BERT, Scikit-learn)*
+Detects emotions in short, informal text such as tweets and comments using a fine-tuned BERT-based transformer, with a dedicated cleaning pipeline to handle emojis and noisy text before training.
 
 ---
 
-“Exploring, building, and creating every day!”
+## Contact
 
+Email: saiswayam1919@gmail.com
+LinkedIn: https://www.linkedin.com/in/sai-swayam-pradhan/
+Portfolio: https://saiswayam2027.github.io/
