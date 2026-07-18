@@ -11,6 +11,9 @@ I'm a Computer Science undergrad at VIT Chennai, building projects across machin
 
 ## Projects
 
+### [Adaptive RAG System](https://github.com/saiswayam2027/Adaptive-RAG-System) *(Python, BM25, Sentence-Transformers, Streamlit)*
+Adaptive RAG pipeline with hybrid BM25 + dense retrieval (RRF fusion), a query router that refuses out-of-scope questions and decomposes multi-hop ones, re-ranking, and post-generation hallucination checking. Verified on a 16-document adversarial eval corpus across two embedding backends: 100% hybrid retrieval hit@5, 96% routing accuracy.
+
 ### [GitHub Profile Analyzer](https://github.com/saiswayam2027/Github-Profile-Analyzer) *(Python, Requests, Matplotlib, Jupyter Notebook)*
 Fetches and analyzes GitHub user activity via the GitHub API, surfacing repository stats, most-used languages, and activity trends through clean visualizations.
 
