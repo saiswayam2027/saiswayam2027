@@ -1,11 +1,11 @@
 # Sai Swayam Pradhan
 
-B.Tech CSE student at VIT Chennai. Interested in AI, Machine Learning and Data Science.
-Skilled in Python, Java and C.
+Backend/distributed systems engineer (B.Tech CSE, VIT Chennai) building AI/ML-powered systems end-to-end.
+Skilled in Java, Python, and C.
 
 ## About Me
 
-I'm a Computer Science undergrad at VIT Chennai, building projects across machine learning, NLP, and backend systems. I enjoy working through problems end-to-end — from data cleaning and model training to wrapping things in an API and shipping them. Currently sharpening my DSA and core CS fundamentals while exploring backend development. Outside of code, I sing and do photography.
+I'm a Computer Science undergrad at VIT Chennai who builds software end-to-end — from distributed backend infrastructure to the ML systems that run on top of it. My core interest is backend/distributed systems (queues, concurrency, crash recovery — see Task Orchestration System below), and I apply the same rigor to ML: retrieval pipelines, fine-tuned transformers, semantic search. Currently sharpening DSA and systems fundamentals. Outside of code, I sing and do photography.
 
 ---
 
