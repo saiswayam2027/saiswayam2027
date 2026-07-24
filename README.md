@@ -11,6 +11,9 @@ I'm a Computer Science undergrad at VIT Chennai, building projects across machin
 
 ## Projects
 
+### [Distributed Task Orchestration System](https://github.com/saiswayam2027/Distributed-Task-Orchestration-System) *(Java, Spring Boot, Redis, PostgreSQL, Docker)*
+A from-scratch reimplementation of the core of AWS SQS / Celery: an at-least-once distributed task queue with atomic Lua-scripted dequeue, visibility timeouts with crash recovery, exponential backoff with full jitter, and a durable PostgreSQL audit trail alongside Redis-backed queue state.
+
 ### [Adaptive RAG System](https://github.com/saiswayam2027/Adaptive-RAG-System) *(Python, BM25, Sentence-Transformers, Streamlit)*
 Adaptive RAG pipeline with hybrid BM25 + dense retrieval (RRF fusion), a query router that refuses out-of-scope questions and decomposes multi-hop ones, re-ranking, and post-generation hallucination checking. Verified on a 16-document adversarial eval corpus across two embedding backends: 100% hybrid retrieval hit@5, 96% routing accuracy.
 
