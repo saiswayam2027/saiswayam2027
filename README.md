@@ -14,6 +14,9 @@ I'm a Computer Science undergrad at VIT Chennai who builds software end-to-end �
 ### [Distributed Task Orchestration System](https://github.com/saiswayam2027/Distributed-Task-Orchestration-System) *(Java, Spring Boot, Redis, PostgreSQL, Docker)*
 A from-scratch reimplementation of the core of AWS SQS / Celery: an at-least-once distributed task queue with atomic Lua-scripted dequeue, visibility timeouts with crash recovery, exponential backoff with full jitter, and a durable PostgreSQL audit trail alongside Redis-backed queue state.
 
+### [Rate Limiter / API Gateway](https://github.com/saiswayam2027/rate-limiter-API-gateway) *(Java, Spring Boot)*
+A hand-rolled API gateway (no Spring Cloud Gateway, no Resilience4j) implementing token-bucket and sliding-window rate limiting per client, path-prefix request routing, and a per-backend circuit breaker (CLOSED/OPEN/HALF_OPEN) driven by live traffic, backed by an independent active health checker. Verified end-to-end against live mock backends: concurrent burst traffic correctly tripping rate limits, and all five circuit breaker transitions — trip, half-open trial, reopen on failure, recovery on success — observed live rather than only asserted in unit tests.
+
 ### [Adaptive RAG System](https://github.com/saiswayam2027/Adaptive-RAG-System) *(Python, BM25, Sentence-Transformers, Streamlit)*
 Adaptive RAG pipeline with hybrid BM25 + dense retrieval (RRF fusion), a query router that refuses out-of-scope questions and decomposes multi-hop ones, re-ranking, and post-generation hallucination checking. Verified on a 16-document adversarial eval corpus across two embedding backends: 100% hybrid retrieval hit@5, 96% routing accuracy.
 
